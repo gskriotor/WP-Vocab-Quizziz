@@ -1,3 +1,4 @@
+<?php
 function finder_form() {
 
     global $wpdb;
