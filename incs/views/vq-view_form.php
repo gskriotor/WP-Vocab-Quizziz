@@ -31,7 +31,9 @@ function finder_form() {
 
     echo '</select>
       </div>
-      <button class="fButton" type="submit" name="submit">Submit</button>
+      <button class="fButton" type="submit" name="submit">view 
+         results
+      </button>
       <button class="fButton" type="submit" name="post_results">
          post results
       </button>
