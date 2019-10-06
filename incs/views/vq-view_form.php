@@ -29,3 +29,12 @@ function finder_form() {
                echo '<option class="fOption" value="'.$exam_selects['name'].'">'.$exam_selects['name'].'</option><br>';
             }
 
+    echo '</select>
+      </div>
+      <button class="fButton" type="submit" name="submit">Submit</button>
+      <button class="fButton" type="submit" name="post_results">
+         post results
+      </button>
+      </form>
+    ';
+}
