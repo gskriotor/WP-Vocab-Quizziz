@@ -1,13 +1,4 @@
 <?php
-/*
-Plugin Name: Vocab Quizziz Master
-Plugin URI: https://github.com/gskriotor/WP-Quiz-Admin-Plug
-Description: Administrate practice quiz results. Output info and results for each student that took the quiz
-Version: 0.0.19
-Author Gus Spencer
-Author URI: https://gusspencer.com
-Text Domain: education
-*/
 
 function q_adminTab() {
      add_menu_page(
