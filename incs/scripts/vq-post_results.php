@@ -1,3 +1,4 @@
+<?php
 //funcion for posting quiz results
 
 function post_results() {
